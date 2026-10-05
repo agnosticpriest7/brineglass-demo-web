@@ -1,0 +1,41 @@
+{
+  "version": "0.1.0",
+  "engine": "Unity 6000.3.23f1",
+  "platform": "WebGL2",
+  "initialHeapMiB": 128,
+  "maxHeapMiB": 512,
+  "compression": "none",
+  "controller": "standard Gamepad API",
+  "files": [
+    {
+      "path": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5298,
+      "sha256": "e77fcbcb679a8029747e824063131545252aa19d5f47ca962f2aa958e8603123"
+    },
+    {
+      "path": "Build/WebBuild.data",
+      "bytes": 3668897,
+      "sha256": "62ea52ca7408b9e53da700d0cfaa23793e494dda37af507432ed1c222c35a414"
+    },
+    {
+      "path": "Build/WebBuild.framework.js",
+      "bytes": 376459,
+      "sha256": "a6310962cbf70e6875206e92743b294629128854f750d90ea2ac35274571598b"
+    },
+    {
+      "path": "Build/WebBuild.loader.js",
+      "bytes": 19431,
+      "sha256": "585ba98f261d4de5efecbbf368e8cfbba112da5df6bc77da22371355a15f5bb6"
+    },
+    {
+      "path": "Build/WebBuild.wasm",
+      "bytes": 15263044,
+      "sha256": "b3066b5ca4890466f4019ce885f18d203fc6e05cedc21d104f863c94630aa2d1"
+    }
+  ]
+}
