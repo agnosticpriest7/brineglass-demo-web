@@ -1,5 +1,5 @@
 {
-  "version": "0.1.1",
+  "version": "0.1.2",
   "engine": "Unity 6000.3.23f1",
   "platform": "WebGL2",
   "initialHeapMiB": 128,
@@ -14,28 +14,28 @@
     },
     {
       "path": "index.html",
-      "bytes": 5298,
-      "sha256": "f4d2e21de0ec29315579b7eaa4dd27ccbb11dc75ff9204c61bb641443c317ffb"
+      "bytes": 5300,
+      "sha256": "bff3d81faf290b54694f7c079df08235b83eb4ad6de117b94f878f86df72ac20"
     },
     {
       "path": "Build/WebBuild.data",
-      "bytes": 3675193,
-      "sha256": "452d9593abfc39dd02c376df997a0fdf68e98a524e1053a22e7603fb0c29246b"
+      "bytes": 3937482,
+      "sha256": "aba9930cef2c6fe3db46e091dc8cc69b400beb6fff00bc61b1a3b78cf80e3781"
     },
     {
       "path": "Build/WebBuild.framework.js",
-      "bytes": 376642,
-      "sha256": "38e7cfc24c4ba2c9a11f59cad1a04192bc9dca04461b94d15ee616e7ea6dadb4"
+      "bytes": 400530,
+      "sha256": "99fe9334c6649a3f014e84878193673489ec2125494b6c55c93ee7ad296e76ec"
     },
     {
       "path": "Build/WebBuild.loader.js",
       "bytes": 19431,
-      "sha256": "862d2d6a9bbc4f73812d40c38be46400c9d7229d61819f1047d3d32e421fcf70"
+      "sha256": "ce1003a90cf79967c13dbd3920e0647f77cecf205c4222e8aa47f42e4e38d0fb"
     },
     {
       "path": "Build/WebBuild.wasm",
-      "bytes": 15279584,
-      "sha256": "cf584b56df898bee60a92eec828068c3e526c5beb8296e4b4b44aa83747ddcce"
+      "bytes": 15721752,
+      "sha256": "e2985eb04731c1e264e1b31ec584c4cc08b50c6a9c8167b5004f48b182db47c5"
     }
   ]
 }
