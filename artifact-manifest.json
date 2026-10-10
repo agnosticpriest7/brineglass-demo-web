@@ -1,6 +1,6 @@
 {
-  "version": "0.2.6",
-  "shellRevision": "immediate-fixes-four-crew-local-1",
+  "version": "0.2.7",
+  "shellRevision": "six-crew-artillery-local-1",
   "engine": "Unity 6000.3.23f1",
   "platform": "WebGL2",
   "initialHeapMiB": 128,
@@ -17,28 +17,28 @@
     },
     {
       "path": "index.html",
-      "bytes": 15802,
-      "sha256": "7d5678c5caa26e4d4ae85390267257ba11bfcc1c51a6304012149562a40e4afb"
+      "bytes": 16060,
+      "sha256": "e71f94b1342a8e110552fd73f6b0386724ac102b0fed1b4f1f3b6c6aa6e88315"
     },
     {
-      "path": "Build/CoopPatchWebBuild.data",
-      "bytes": 9544425,
-      "sha256": "824751f30aa12f6a91f4bdbf2a9fe50e7403ba1b428f039ad0e44ef436e66142"
+      "path": "Build/CoopSixWebBuild.data",
+      "bytes": 9562481,
+      "sha256": "827576d24fe0a2e992b60ba76aad635490a58023ac33f5674520cb5a87c867af"
     },
     {
-      "path": "Build/CoopPatchWebBuild.framework.js",
-      "bytes": 479919,
-      "sha256": "ef54023a0f09a42924a8a65a2065e82223dfa017bc2f0edfa447175bc2c39fb6"
+      "path": "Build/CoopSixWebBuild.framework.js",
+      "bytes": 480125,
+      "sha256": "27ba811fcd215545fe2b6e37e62d5709a9d42e5e0741401c2772a876bd830547"
     },
     {
-      "path": "Build/CoopPatchWebBuild.loader.js",
+      "path": "Build/CoopSixWebBuild.loader.js",
       "bytes": 19431,
-      "sha256": "a495aa71d36953d88a0e683500adaacbd3aa892b87ea3bdf9fca49efc7df0509"
+      "sha256": "1f66a339d239f8c649edebf0f0d102f356d00d2e445e822ce707569cac74f986"
     },
     {
-      "path": "Build/CoopPatchWebBuild.wasm",
-      "bytes": 38346066,
-      "sha256": "1f3aae694355dc73b1141a0bcdd67e019411a5de0cc7561eac401f1b4bb956bb"
+      "path": "Build/CoopSixWebBuild.wasm",
+      "bytes": 38355344,
+      "sha256": "e833830e327a7fadc16f06b50dffede61d7386450c5545dcf2a3e7d202442fe6"
     },
     {
       "path": "StreamingAssets/UnityServicesProjectConfiguration.json",
