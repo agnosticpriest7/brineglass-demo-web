@@ -1,11 +1,13 @@
 {
-  "version": "0.1.6",
+  "version": "0.2.0",
   "engine": "Unity 6000.3.23f1",
   "platform": "WebGL2",
   "initialHeapMiB": 128,
   "maxHeapMiB": 512,
   "compression": "none",
   "controller": "standard Gamepad API",
+  "relayTransport": "WSS",
+  "relayOnlineVerified": true,
   "files": [
     {
       "path": ".nojekyll",
@@ -14,28 +16,33 @@
     },
     {
       "path": "index.html",
-      "bytes": 6226,
-      "sha256": "94c1b7a0880ad13774d8a04d8e596ab2ed27d8a203d11beabaff1ff299e76c9a"
+      "bytes": 9272,
+      "sha256": "13ee197576b52d0d506664b0a041ae3efa03144ae81c59c5fd60a88fc1db43e0"
     },
     {
-      "path": "Build/WebBuild.data",
-      "bytes": 3995524,
-      "sha256": "b0548aa8edd5f28ea842d375bcf47c4b5e278a65b08bc8321e3e624395447f50"
+      "path": "Build/CoopWebBuild.data",
+      "bytes": 9497187,
+      "sha256": "720f557a08d2c3bb3906182a84cb511e96d556c766fdc961413bac2891a2e776"
     },
     {
-      "path": "Build/WebBuild.framework.js",
-      "bytes": 403480,
-      "sha256": "71ddaf017312499a40f588b7a3d8bdcd7f639c0875145cb499a023878099f986"
+      "path": "Build/CoopWebBuild.framework.js",
+      "bytes": 478658,
+      "sha256": "82011ad57150e9a2e05902b570d047b401ce53e0e37080aaef4471a820bf0f80"
     },
     {
-      "path": "Build/WebBuild.loader.js",
+      "path": "Build/CoopWebBuild.loader.js",
       "bytes": 19431,
-      "sha256": "83b2543effeda1ce8fc869250e48e6d83fc6834e8230e035c06063cc640991cd"
+      "sha256": "1d4e639afabd5b83788bcaa2ebbd7664b8a6366d6fea8d8a2085ae6dcfe21dcf"
     },
     {
-      "path": "Build/WebBuild.wasm",
-      "bytes": 15966139,
-      "sha256": "288739c1580471a5b745e4c4ca26178876873a050a95e91a3acbc1c45c8725b2"
+      "path": "Build/CoopWebBuild.wasm",
+      "bytes": 38196227,
+      "sha256": "f9b67b1da52f291202d2306f45cca1b0f77adba897672cfd0177ebbe65728ef0"
+    },
+    {
+      "path": "StreamingAssets/UnityServicesProjectConfiguration.json",
+      "bytes": 2733,
+      "sha256": "1db8718fed9e16130f5c03c1936cd2056b4206f627801fee0b39023242884d54"
     }
   ]
 }
