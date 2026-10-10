@@ -1,6 +1,6 @@
 {
-  "version": "0.2.2",
-  "shellRevision": "three-gun-stations-1",
+  "version": "0.2.3",
+  "shellRevision": "two-ships-footer-2",
   "engine": "Unity 6000.3.23f1",
   "platform": "WebGL2",
   "initialHeapMiB": 128,
@@ -17,28 +17,28 @@
     },
     {
       "path": "index.html",
-      "bytes": 15799,
-      "sha256": "47e1217b44e984f5deabcf270a4ba7530bfdbb84a9b89c8128de3e0d65b7a051"
+      "bytes": 15994,
+      "sha256": "4570e1c33d5ab1da9283e99eb877e2e33ba0a8435bea208838a089d7ccf7a282"
     },
     {
-      "path": "Build/CoopTurretWebBuild.data",
-      "bytes": 9514008,
-      "sha256": "d7c590cd57bbfd3e45fbd2b572ef7d90bf1f28b808fdbaf4f554bd78e0132863"
+      "path": "Build/CoopFleetWebBuild.data",
+      "bytes": 9522019,
+      "sha256": "f5a32aaa5e49285a24054dcdc553bc052925cec98b81397b49ce1d2cb1acd659"
     },
     {
-      "path": "Build/CoopTurretWebBuild.framework.js",
-      "bytes": 479072,
-      "sha256": "ca9d4f4d0925da6b94b7a3f2235f91b89550867dc005bce8ee24431c037174ac"
+      "path": "Build/CoopFleetWebBuild.framework.js",
+      "bytes": 479187,
+      "sha256": "1e62d77c66ea4844e9c4de623e682f63d5aacd86ed6f6df215107f033daedbdb"
     },
     {
-      "path": "Build/CoopTurretWebBuild.loader.js",
+      "path": "Build/CoopFleetWebBuild.loader.js",
       "bytes": 19431,
-      "sha256": "39e94f2c118b505a49029532e8849a9a00df9bdd6ed87b5ab5fdb43c3357ec44"
+      "sha256": "f8bec68c1b8955c05368ce1357b57193b81d398db9032ed2ab53450b6886f6e4"
     },
     {
-      "path": "Build/CoopTurretWebBuild.wasm",
-      "bytes": 38232198,
-      "sha256": "b11e8092b9de5734f426402179bcd1e10773a0d4e2b574f8687a87d018c6b8af"
+      "path": "Build/CoopFleetWebBuild.wasm",
+      "bytes": 38280893,
+      "sha256": "ba7b3adefe22b62c1c71a130074c250f846e37a509d84f54eb3422d6a808832a"
     },
     {
       "path": "StreamingAssets/UnityServicesProjectConfiguration.json",
