@@ -1,6 +1,6 @@
 {
-  "version": "0.2.3",
-  "shellRevision": "two-ships-footer-2",
+  "version": "0.2.4",
+  "shellRevision": "terrain-avatar-local-1",
   "engine": "Unity 6000.3.23f1",
   "platform": "WebGL2",
   "initialHeapMiB": 128,
@@ -17,28 +17,28 @@
     },
     {
       "path": "index.html",
-      "bytes": 15994,
-      "sha256": "4570e1c33d5ab1da9283e99eb877e2e33ba0a8435bea208838a089d7ccf7a282"
+      "bytes": 16003,
+      "sha256": "91d92f7fe2669498898d28ef60e85327b89ae71121090478cdb0e19c895ff934"
     },
     {
-      "path": "Build/CoopFleetWebBuild.data",
-      "bytes": 9522019,
-      "sha256": "f5a32aaa5e49285a24054dcdc553bc052925cec98b81397b49ce1d2cb1acd659"
+      "path": "Build/CoopTerrainWebBuild.data",
+      "bytes": 9538819,
+      "sha256": "41d38e94d28fb194ad9c2fbd3db6dc61507f6a7ecb536db263620dc36d427e1a"
     },
     {
-      "path": "Build/CoopFleetWebBuild.framework.js",
-      "bytes": 479187,
-      "sha256": "1e62d77c66ea4844e9c4de623e682f63d5aacd86ed6f6df215107f033daedbdb"
+      "path": "Build/CoopTerrainWebBuild.framework.js",
+      "bytes": 479800,
+      "sha256": "14ea6c10e5cd1473fd27f020683382af7cc2a2507896dcade28203494411fe5e"
     },
     {
-      "path": "Build/CoopFleetWebBuild.loader.js",
+      "path": "Build/CoopTerrainWebBuild.loader.js",
       "bytes": 19431,
-      "sha256": "f8bec68c1b8955c05368ce1357b57193b81d398db9032ed2ab53450b6886f6e4"
+      "sha256": "6bb9a16042421efca99fc0c3bffeebe8e9d50aae10d80f83e3b9d24dc57e4ef5"
     },
     {
-      "path": "Build/CoopFleetWebBuild.wasm",
-      "bytes": 38280893,
-      "sha256": "ba7b3adefe22b62c1c71a130074c250f846e37a509d84f54eb3422d6a808832a"
+      "path": "Build/CoopTerrainWebBuild.wasm",
+      "bytes": 38321747,
+      "sha256": "9617124460e1b44106630c2cf97fb978bb02624707d31fefab870fb6d1b08956"
     },
     {
       "path": "StreamingAssets/UnityServicesProjectConfiguration.json",
