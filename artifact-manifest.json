@@ -1,6 +1,6 @@
 {
-  "version": "0.2.7",
-  "shellRevision": "six-crew-artillery-local-1",
+  "version": "0.2.8",
+  "shellRevision": "fan-terrain-local-2",
   "engine": "Unity 6000.3.23f1",
   "platform": "WebGL2",
   "initialHeapMiB": 128,
@@ -8,7 +8,7 @@
   "compression": "none",
   "controller": "standard Gamepad API",
   "relayTransport": "WSS",
-  "relayOnlineVerified": true,
+  "relayOnlineVerified": false,
   "files": [
     {
       "path": ".nojekyll",
@@ -17,28 +17,28 @@
     },
     {
       "path": "index.html",
-      "bytes": 16060,
-      "sha256": "e71f94b1342a8e110552fd73f6b0386724ac102b0fed1b4f1f3b6c6aa6e88315"
+      "bytes": 16172,
+      "sha256": "5a2e13f168926fa9cb039e438842711fea986902a56a770c0ad2220b88fd73b3"
     },
     {
-      "path": "Build/CoopSixWebBuild.data",
-      "bytes": 9562481,
-      "sha256": "827576d24fe0a2e992b60ba76aad635490a58023ac33f5674520cb5a87c867af"
+      "path": "Build/CoopFanWebBuild.data",
+      "bytes": 9571509,
+      "sha256": "3be4b9e2cae3b6ddde51043648abf32aa3bad0c4778616513d6569e8291dfa26"
     },
     {
-      "path": "Build/CoopSixWebBuild.framework.js",
-      "bytes": 480125,
-      "sha256": "27ba811fcd215545fe2b6e37e62d5709a9d42e5e0741401c2772a876bd830547"
+      "path": "Build/CoopFanWebBuild.framework.js",
+      "bytes": 480298,
+      "sha256": "f4cec6488b2902fb8057c1df51d9110a7811bb033c89c0665203a53b0e940752"
     },
     {
-      "path": "Build/CoopSixWebBuild.loader.js",
+      "path": "Build/CoopFanWebBuild.loader.js",
       "bytes": 19431,
-      "sha256": "1f66a339d239f8c649edebf0f0d102f356d00d2e445e822ce707569cac74f986"
+      "sha256": "78598e7c8354ad3702c1190dd49ba84f0d55a3439044d410ec0a58dc9a61a107"
     },
     {
-      "path": "Build/CoopSixWebBuild.wasm",
-      "bytes": 38355344,
-      "sha256": "e833830e327a7fadc16f06b50dffede61d7386450c5545dcf2a3e7d202442fe6"
+      "path": "Build/CoopFanWebBuild.wasm",
+      "bytes": 38400864,
+      "sha256": "cf0e30f3ac7f9a77f1d354b0678b003377fab81e3570f348ef99a31e37c1e5d9"
     },
     {
       "path": "StreamingAssets/UnityServicesProjectConfiguration.json",
