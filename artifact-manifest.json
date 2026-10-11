@@ -1,6 +1,6 @@
 {
-  "version": "0.2.8",
-  "shellRevision": "fan-terrain-local-2",
+  "version": "0.2.9",
+  "shellRevision": "overnight-bridge-river-grapple-compact-map-3",
   "engine": "Unity 6000.3.23f1",
   "platform": "WebGL2",
   "initialHeapMiB": 128,
@@ -17,28 +17,28 @@
     },
     {
       "path": "index.html",
-      "bytes": 16172,
-      "sha256": "5a2e13f168926fa9cb039e438842711fea986902a56a770c0ad2220b88fd73b3"
+      "bytes": 17046,
+      "sha256": "02f341b63b0a290976e0f83c42f72530301e14cf088cf6c75c8f927a554d71df"
     },
     {
-      "path": "Build/CoopFanWebBuild.data",
-      "bytes": 9571509,
-      "sha256": "3be4b9e2cae3b6ddde51043648abf32aa3bad0c4778616513d6569e8291dfa26"
+      "path": "Build/OvernightWebBuild.data",
+      "bytes": 9582122,
+      "sha256": "d0e5d3277542cd2d79d3a752fec77fc092e5cfa62b0ece08ad2c069175509537"
     },
     {
-      "path": "Build/CoopFanWebBuild.framework.js",
-      "bytes": 480298,
-      "sha256": "f4cec6488b2902fb8057c1df51d9110a7811bb033c89c0665203a53b0e940752"
+      "path": "Build/OvernightWebBuild.framework.js",
+      "bytes": 480494,
+      "sha256": "e190bc1e3d5594ef461e2398bee05656f63f063054d54ec085be79efdeef8d9e"
     },
     {
-      "path": "Build/CoopFanWebBuild.loader.js",
+      "path": "Build/OvernightWebBuild.loader.js",
       "bytes": 19431,
-      "sha256": "78598e7c8354ad3702c1190dd49ba84f0d55a3439044d410ec0a58dc9a61a107"
+      "sha256": "dbee587dbd54c55d1f6a3838bc115900098c095fc9344eec8e8924e282aaf1bb"
     },
     {
-      "path": "Build/CoopFanWebBuild.wasm",
-      "bytes": 38400864,
-      "sha256": "cf0e30f3ac7f9a77f1d354b0678b003377fab81e3570f348ef99a31e37c1e5d9"
+      "path": "Build/OvernightWebBuild.wasm",
+      "bytes": 38501916,
+      "sha256": "f7b504e3fa8cc2ee56ed6dc8d9b516488c60918d699ab9c24c2bf6ba343fde67"
     },
     {
       "path": "StreamingAssets/UnityServicesProjectConfiguration.json",
