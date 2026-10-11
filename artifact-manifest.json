@@ -1,6 +1,6 @@
 {
   "version": "0.2.9",
-  "shellRevision": "overnight-bridge-river-grapple-compact-map-3",
+  "shellRevision": "aft-bridge-release-1-depth-labels",
   "engine": "Unity 6000.3.23f1",
   "platform": "WebGL2",
   "initialHeapMiB": 128,
@@ -17,33 +17,34 @@
     },
     {
       "path": "index.html",
-      "bytes": 17046,
-      "sha256": "02f341b63b0a290976e0f83c42f72530301e14cf088cf6c75c8f927a554d71df"
+      "bytes": 17243,
+      "sha256": "fda25a9517e0b8fb9341b32648c440d770b9f1d75ead0c9ef2e30d4f36eb77dc"
     },
     {
       "path": "Build/OvernightWebBuild.data",
-      "bytes": 9582122,
-      "sha256": "d0e5d3277542cd2d79d3a752fec77fc092e5cfa62b0ece08ad2c069175509537"
+      "bytes": 9585734,
+      "sha256": "ac08c7f5186b4b3aefb238f936040d21207529e61b0bc82fc8786cbbf05919fc"
     },
     {
       "path": "Build/OvernightWebBuild.framework.js",
       "bytes": 480494,
-      "sha256": "e190bc1e3d5594ef461e2398bee05656f63f063054d54ec085be79efdeef8d9e"
+      "sha256": "2ec16585137e31bb281f3818fa06d8dc834936207665575be38fb08a85b65560"
     },
     {
       "path": "Build/OvernightWebBuild.loader.js",
       "bytes": 19431,
-      "sha256": "dbee587dbd54c55d1f6a3838bc115900098c095fc9344eec8e8924e282aaf1bb"
+      "sha256": "4cfca228f19c7d2bf7081202ae7ce11e3ff90842dee8b6a4dc5434d6a9d06cc0"
     },
     {
       "path": "Build/OvernightWebBuild.wasm",
-      "bytes": 38501916,
-      "sha256": "f7b504e3fa8cc2ee56ed6dc8d9b516488c60918d699ab9c24c2bf6ba343fde67"
+      "bytes": 38525939,
+      "sha256": "59f077abdb704d095a0db0172a9f192135103deefa34b6fd688ee2c50fdef7ee"
     },
     {
       "path": "StreamingAssets/UnityServicesProjectConfiguration.json",
       "bytes": 2643,
       "sha256": "282d54e684f7c1f9a8e3766b2c2c948aa68eded06598ec7a734581b2dab5f8e1"
     }
-  ]
+  ],
+  "releaseIdentifier": "0.2.9-aft.1"
 }
