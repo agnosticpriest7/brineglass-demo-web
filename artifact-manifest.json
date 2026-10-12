@@ -1,6 +1,6 @@
 {
   "version": "0.2.9",
-  "shellRevision": "world-expansion-release-1",
+  "shellRevision": "ladder-descent-release-1",
   "engine": "Unity 6000.3.23f1",
   "platform": "WebGL2",
   "initialHeapMiB": 128,
@@ -17,13 +17,13 @@
     },
     {
       "path": "index.html",
-      "bytes": 17377,
-      "sha256": "327bcb6335cc59f9e9c9c89e0fb7f58d3965a325e2092bacffb86fe1f25f0299"
+      "bytes": 17438,
+      "sha256": "43740ec7d0df1c4195e114b1566288750d75c30526deaaccecff79ac853c91a7"
     },
     {
       "path": "Build/OvernightWebBuild.data",
-      "bytes": 9598612,
-      "sha256": "002296b22128e63601552ccdd05f8af6c674f47618c4e48dadd15ee623b27cba"
+      "bytes": 9600489,
+      "sha256": "0ebf6daaaa380bc851d05f40d3e4cd4868ba3f87dc79a74929222ce491cf8f52"
     },
     {
       "path": "Build/OvernightWebBuild.framework.js",
@@ -33,12 +33,12 @@
     {
       "path": "Build/OvernightWebBuild.loader.js",
       "bytes": 19431,
-      "sha256": "ce98e841bb9ace9bf2fb2c9e6b0331102d7d1331cb2a0a3af6c0e347d53f85b6"
+      "sha256": "f968c98726e94e5a72351cda9302c83661e43f5eb0ab96f63b9e5118885da0ca"
     },
     {
       "path": "Build/OvernightWebBuild.wasm",
-      "bytes": 38598610,
-      "sha256": "3951bc07964f75bd75e58d4385c79d74d9867b3a9911a451f5bb9cf227459860"
+      "bytes": 38605093,
+      "sha256": "e94982b36a92a9e08c4b9ec103f8d8e7e691c01e5db6d546fbf645884c0dd92d"
     },
     {
       "path": "StreamingAssets/UnityServicesProjectConfiguration.json",
@@ -46,7 +46,7 @@
       "sha256": "282d54e684f7c1f9a8e3766b2c2c948aa68eded06598ec7a734581b2dab5f8e1"
     }
   ],
-  "releaseIdentifier": "0.2.9-world.1",
+  "releaseIdentifier": "0.2.9-ladder.1",
   "world": {
     "playableWidthMetres": 1040,
     "terrainWidthMetres": 1280,
