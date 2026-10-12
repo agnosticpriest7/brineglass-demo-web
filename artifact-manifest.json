@@ -1,6 +1,6 @@
 {
   "version": "0.2.9",
-  "shellRevision": "aft-bridge-release-1-depth-labels",
+  "shellRevision": "roof-controls-release-1",
   "engine": "Unity 6000.3.23f1",
   "platform": "WebGL2",
   "initialHeapMiB": 128,
@@ -17,13 +17,13 @@
     },
     {
       "path": "index.html",
-      "bytes": 17243,
-      "sha256": "fda25a9517e0b8fb9341b32648c440d770b9f1d75ead0c9ef2e30d4f36eb77dc"
+      "bytes": 17194,
+      "sha256": "56c49e962b309aa827f8ecb5a5f115590d07c2af9d5e17e38c5764288e2578e9"
     },
     {
       "path": "Build/OvernightWebBuild.data",
-      "bytes": 9585734,
-      "sha256": "ac08c7f5186b4b3aefb238f936040d21207529e61b0bc82fc8786cbbf05919fc"
+      "bytes": 9592723,
+      "sha256": "3c5db2f6c9a9bbbafdd19d9b9348bfea62dc7ae1465e3ee30afa464293ce7f90"
     },
     {
       "path": "Build/OvernightWebBuild.framework.js",
@@ -33,12 +33,12 @@
     {
       "path": "Build/OvernightWebBuild.loader.js",
       "bytes": 19431,
-      "sha256": "4cfca228f19c7d2bf7081202ae7ce11e3ff90842dee8b6a4dc5434d6a9d06cc0"
+      "sha256": "2995a5ffe78322ba9ef85c1f35f96e00ed8bb982ba6d76b215f26e67c3781eec"
     },
     {
       "path": "Build/OvernightWebBuild.wasm",
-      "bytes": 38525939,
-      "sha256": "59f077abdb704d095a0db0172a9f192135103deefa34b6fd688ee2c50fdef7ee"
+      "bytes": 38544497,
+      "sha256": "07fd58265b96d1591c55894b285036c96d7da777031b1cfb903f66c18fd06635"
     },
     {
       "path": "StreamingAssets/UnityServicesProjectConfiguration.json",
@@ -46,5 +46,5 @@
       "sha256": "282d54e684f7c1f9a8e3766b2c2c948aa68eded06598ec7a734581b2dab5f8e1"
     }
   ],
-  "releaseIdentifier": "0.2.9-aft.1"
+  "releaseIdentifier": "0.2.9-roof.1"
 }
